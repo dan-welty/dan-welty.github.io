@@ -1,0 +1,24 @@
+html {
+	font-size: 1rem;
+	line-height: 1.5rem;
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+
+::-moz-selection {
+	background: rgba(0, 66, 110, 0.996);
+	text-shadow: none;
+}
+::selection {
+	background: rgba(0, 66, 110, 0.996);
+	text-shadow: none;
+}
+
+
+body {
+	color: #aaaaaa;
+	background-color: #202020;
+}
