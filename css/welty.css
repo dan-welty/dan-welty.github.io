@@ -8,17 +8,13 @@ html {
 }
 
 
-::-moz-selection {
-	background: rgba(0, 66, 110, 0.996);
-	text-shadow: none;
-}
 ::selection {
-	background: rgba(0, 66, 110, 0.996);
+	background: rgba(0, 68, 102, 0.996);
 	text-shadow: none;
 }
 
 
 body {
-	color: #aaaaaa;
-	background-color: #202020;
+	color: #7c7c7c;
+	background-color: #101010;
 }

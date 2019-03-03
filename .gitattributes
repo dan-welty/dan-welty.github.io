@@ -1,6 +1,16 @@
-* text=auto
+*               text=auto whitespace=tab-in-indent,tabwidth=4
 
+*.md            text eol=lf
+*.html          text eol=lf diff=html
 
-*.css    text
-*.html   text
-*.md     text
+*.css           text eol=lf diff=css
+*.s[ac]ss       text eol=lf
+
+*.js            text eol=lf
+
+*.toml          text eol=lf
+
+LICENSE         text eol=lf
+
+.gitattributes  text eol=lf export-ignore
+.gitignore      text eol=lf export-ignore
