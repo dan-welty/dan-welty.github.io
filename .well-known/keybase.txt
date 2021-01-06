@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/danwelty
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dan.welty.dev
+  * I am danwelty (https://keybase.io/danwelty) on keybase.
+  * I have a public key with fingerprint 4A64 CC6E 6909 F780 4AC4  A3AE B6ED 6CDA 0F53 915B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0116f6691eaaf5cf97951bf142e57590c0cfac8e9829c631f02ea2fa21783f6a26e90a",
+      "fingerprint": "4a64cc6e6909f7804ac4a3aeb6ed6cda0f53915b",
+      "host": "keybase.io",
+      "key_id": "b6ed6cda0f53915b",
+      "kid": "0116f6691eaaf5cf97951bf142e57590c0cfac8e9829c631f02ea2fa21783f6a26e90a",
+      "uid": "750f9b066d3f0f47ec2d7bf19b4e7019",
+      "username": "danwelty"
+    },
+    "service": {
+      "hostname": "dan.welty.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1603003311,
+  "expire_in": 157680000,
+  "prev": "229ac5c9f3d82e887ddd10fe50a0ba7cb5a71f9a3b005f29f065678486ae4d54",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkk1rFDEYx6e1hbagiJbFQwsaEA8uSzIzSSZz0Lug9KCCoAx5ebI7dDuzzsxu
+XUoLgqBihYIHFaS96MVPUPwG4t0PUJVqEfGkUETNLBYvHs0l5Mnv/39eeDYOH/Km
+GpdnP+Tb/b3PY28+KS958O7bClK5GaJ4BS3C6IKugbJKFlODYoQJYZYxQUBKS7UV
+XFCiLAl9oJwKrLG2UkcgIl9oFhCLfZC+lT7hUWCZ9BkILFET2TRrQ9Er0qxytqFk
+odYMmMDC8giHUocykKAYGKaNxJYGglDlhJ28rBWuOCVLaKW5i7lHMirvH/x/rrs/
+suMUW6EwYyaw2IYctG+4sxMqBI6JqMESikwugaONzJahWw3RahO56CDVUA+27uQv
+0RohLQMDJ+4VeZXrvOu+OlXVK+NaWg17NbsMKvnjkqg0M26QTjGAokzzDMXEkbpK
+a1vCcIBxEBDSRHCrlxaQpDVBOYuwO3Uely5Gvi+kpte0sIGJfIgibowh2ALFEivJ
+taKSEytkoDCm1hcWM8p4FEZMQmhoiOrGbmY5ikNXp2w7zzJtZ7LqF4BWZ+71J7zG
+lDffODWxeeXIfrm/sPVy/cbuwe5NjteL581MHz2InNzwfp59P3072/zy/eOlH2fu
+7p5YesaONc4lazvn53e2HudPr3q/LnTp6+p+9XyBbj/sPJm7sycezR7/ev3ti1cX
+J0+vj4/9Bg==
+=XPFT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danwelty
+
+==================================================================
