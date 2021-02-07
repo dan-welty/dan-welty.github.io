@@ -1,3 +1,7 @@
+User-agent: *
+Disallow: /404
+
+User-agent: Archive-It
 User-agent: archive.org_bot
 User-agent: ia_archiver
 User-agent: ia_archiver-web.archive.org
