@@ -1,16 +1,24 @@
-*               text=auto whitespace=tab-in-indent,tabwidth=4
+*               text=auto eol=lf whitespace=-tab-in-indent,-indent-with-non-tab
 
-*.md            text eol=lf
-*.html          text eol=lf diff=html
+*.toml          eol=lf
+*.yaml          eol=lf whitespace=tab-in-indent,tabwidth=4
+*.yml           eol=lf whitespace=tab-in-indent,tabwidth=4
 
-*.css           text eol=lf diff=css
-*.s[ac]ss       text eol=lf
+*.json          eol=lf
+*.xml           eol=lf
 
-*.js            text eol=lf
+*.txt           eol=lf
+*.md            eol=lf diff=markdown whitespace=tab-in-indent,tabwidth=4
+*.rst           eol=lf whitespace=tab-in-indent,tabwidth=8
 
-*.toml          text eol=lf
+*.html          eol=lf diff=html
+*.xhtml         eol=lf diff=html
+*.css           eol=lf diff=css
+*.s[ac]ss       eol=lf diff=css
+*.js            eol=lf
 
-LICENSE         text eol=lf
+LICENSE*        eol=lf
 
-.gitattributes  text eol=lf export-ignore
-.gitignore      text eol=lf export-ignore
+.gitattributes  eol=lf export-ignore
+.gitignore      eol=lf export-ignore
+.gitmodules     eol=lf export-ignore
