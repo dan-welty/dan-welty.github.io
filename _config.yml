@@ -1,2 +1,7 @@
-theme: jekyll-theme-midnight
-include: [".well-known"]
+theme: 'jekyll-theme-midnight'
+
+source:      'src/'
+destination: 'dist/'
+
+include:
+    - '.well-known/'

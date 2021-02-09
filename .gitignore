@@ -1,0 +1,11 @@
+# Sass
+.sass-cache/
+
+# Jekyll
+/dist/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+/vendor/
+.bundle/
