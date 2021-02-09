@@ -1,7 +1,4 @@
 theme: 'jekyll-theme-midnight'
 
-source:      'src/'
-#destination: 'dist/'
-
 include:
     - '.well-known/'
