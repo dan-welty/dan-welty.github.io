@@ -17,6 +17,14 @@
 *.s[ac]ss       eol=lf diff=css
 *.js            eol=lf
 
+*.gif           binary
+*.jpeg          binary
+*.jpg           binary
+*.png           binary
+*.webp          binary
+*.svgz          binary
+*.svg           eol=lf
+
 LICENSE*        eol=lf
 
 .gitattributes  eol=lf export-ignore
