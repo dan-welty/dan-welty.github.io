@@ -4,4 +4,4 @@ exclude:
     - 'README.md'
 
 include:
-    - '.well-known/'
+    - '.well-known'
