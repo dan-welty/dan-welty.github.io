@@ -1,35 +1,25 @@
 ==================================================================
-https://keybase.io/danwelty
+https://keybase.io/welty
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://dan.welty.dev
-  * I am danwelty (https://keybase.io/danwelty) on keybase.
-  * I have a public key with fingerprint 4A64 CC6E 6909 F780 4AC4  A3AE B6ED 6CDA 0F53 915B
+  * I am welty (https://keybase.io/welty) on keybase.
+  * I have a public key with fingerprint 3601 0F0A 04C3 1653 C794  6D6D 9B7B C57F 4565 91C0
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0116f6691eaaf5cf97951bf142e57590c0cfac8e9829c631f02ea2fa21783f6a26e90a",
-      "fingerprint": "4a64cc6e6909f7804ac4a3aeb6ed6cda0f53915b",
+      "eldest_kid": "0116447528aea7bccde4b52d25934897bb6cc77b7286bb408dc22a3ff24fddf4ab740a",
+      "fingerprint": "36010f0a04c31653c7946d6d9b7bc57f456591c0",
       "host": "keybase.io",
-      "key_id": "b6ed6cda0f53915b",
-      "kid": "0116f6691eaaf5cf97951bf142e57590c0cfac8e9829c631f02ea2fa21783f6a26e90a",
-      "uid": "750f9b066d3f0f47ec2d7bf19b4e7019",
-      "username": "danwelty"
-    },
-    "merkle_root": {
-      "ctime": 1609912224,
-      "hash_meta": "134911901d4dcec562675e28f60552b74b1a64c435cf3376c4cb4b658476e1d4",
-      "seqno": 18608359
-    },
-    "revoke": {
-      "sig_ids": [
-        "38bab884d8b4a09fc27adedef587d3c1178c620fd9e68d0deb800acc8bb43f730f"
-      ]
+      "key_id": "9b7bc57f456591c0",
+      "kid": "0116447528aea7bccde4b52d25934897bb6cc77b7286bb408dc22a3ff24fddf4ab740a",
+      "uid": "d368d9bbc780d37333caaf88a084c519",
+      "username": "welty"
     },
     "service": {
       "hostname": "dan.welty.dev",
@@ -38,10 +28,10 @@ To do so, I am signing this object:
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1609912227,
+  "ctime": 1668584862,
   "expire_in": 157680000,
-  "prev": "aea939825a50b4202f7a15043acb0d428a145dc0a7d2f8336825972fb53f7e47",
-  "seqno": 5,
+  "prev": "508a1ef61dd598710cd4d5a1572ffe5a34a0fcd3f53c82e263e3cc18842f6b85",
+  "seqno": 2,
   "tag": "signature"
 }
 
@@ -49,26 +39,24 @@ which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
 
-owGtUzloFFEY3mgEDbgE1BSCYsbGIsR3H1unlVgoCBKXd/wvGTbZWWdmcxAClioW
-WqQQPFAUgmJjIV6FoIUgpLW1kagINklhwOCbxRAQS6th3nzX//3zru/fXds7dObg
-5+x599v3vg9fba25Mf5uMbGZX0gai0kLeg+Y9lCUzVbqk0aCMBZBCI3BmMBd0FJz
-bANmBLjkGjnkgnEKtCLaCYoDImBIMARLRYMwRIBGJhlJQtqehLyTp+0yyjIjmHMC
-hEY6SIWYccxQA1aAF84bFDjVmNtInMqKihHDWVPAaJrFs/jS7MX7B/4/5+725CRH
-QVskhKcBBSbBES+jnLYMJMK6AhaQt80MRLQ37TmYLheSpZFkBvLWNDTzLCurcl2Z
-VhAskNaYEMLigKaYas5AaSITU6Yx1gh75h04LoiQHIgKAnFOrGQWV80xGkeiVArH
-nGVWcMWkgEiKOQq42M6igxJIUa5jhBxmsxZU7kU6GXsrksb5hCr7Zt5YpZhXlpm4
-Bkek8eAhcCU9dTg24QRBwWsQyiMPViFknFPWMhokRSGZWKr88tnU9eSrVe1UMNrr
-YNTDbEzVybMyc9l0/DRVlp2iUXVTLnQq7BzY5h+Vpk3bPv4pkTELeZFm7ThJRP5d
-mxxJYL6T5tBMKwSXImZDqPKJdo3EgNE07pYbjiwjiARpMEeMGmeRZ0QZzLh3yEhP
-gqJURKiWJFgeJwMmd3rkMaaZjJKxu7YpuzkkSwOXu/21ob21I0PD/XfO1jeLzdN3
-H12bWNu+W3t2VRerNrBvcPvkQL2v9vP+4O2bX+afHl85dGJt9dWTo8PPHj6eG6tf
-nblxcit98Lav9mn98K+tU6vnrhwTl17XV8Zf3ru1sfx+/eOLZXphbP5H/28=
-=T8Jp
+owGtUj1oFEEUXk2EJBAwzXURHGzE45jd+d2tRBALC0EwhQjr/F6Wu9tdd/cuHkck
+YmMlKtqohSBXiZjCQsG/gIJgaSG2Fp7phDQWIs6eSWfpNMO89/289+bdXJzx5hqL
+zzaPXVs6/mLfx23pqerupxGQmR6CaAQ6ZnqZrjZlFXcSDSIAfZ9izEjAhRFMKqUN
+liTQAQkR5iGTkirFmGQBp1JiyLUKAoGsDbDV2mIhGYYCNIFN0rYp8iJJKyeLKPSh
+hQJihXxKkGIhpprqUDoPwiwmlIS+go64mpU1wxUnRWlaSeZi7hFPy/sH/j/X3Z/K
+aUS5K04qxqFGDCGkhLCcC8ixIn5YA0tTpKJnHHrNdKshWG8CFxokytRTrdvYTWuR
+tqaQljYDx8yLrMpU1nWp1arKy6imVsP8r5SMd1VimaTaTdExBqYokywFke+Qqkpq
+WZ9STjjmNGgCczlPChMnNYIwyqE7tY+ziwCBXPjGUn9FaxJy5kOlsSbCIQNrDREI
+C2iVRtb9Cw9MQJFBSvmc48BSyQmoG7uUZiByVpVoO80yaaei6hcGrC9c7896jTlv
+uXF49un2iduLp85cvHPy/s+9xTuwv946b2H+4F7k6or3a35ya0w2fpw/dGHn7Idz
+zx+PR+/GV568ib+rnXvZ1ssb3m/+0H450trq9U4vDR/knzffd75tvPq6/HZt8nqC
+jz6a+QM=
+=16dH
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/danwelty
+View my publicly-auditable identity here: https://keybase.io/welty
 
 ==================================================================
