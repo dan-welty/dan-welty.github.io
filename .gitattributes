@@ -1,36 +1,12 @@
 *               text=auto eol=lf whitespace=indent-with-non-tab,-tab-in-indent,tabwidth=4
 
-*.txt           eol=lf
-*.md            eol=lf diff=markdown whitespace=tab-in-indent,-indent-with-non-tab,tabwidth=4
+*.md            text diff=markdown whitespace=tab-in-indent,-indent-with-non-tab,tabwidth=4
 
-*.json          eol=lf
-*.toml          eol=lf
+*.html          text diff=html
+*.xhtml         text diff=html
+*.css           text diff=css
+*.s[ac]ss       text diff=css
 
-*.html          eol=lf diff=html
-*.xhtml         eol=lf diff=html
-*.css           eol=lf diff=css
-*.s[ac]ss       eol=lf diff=css
-*.[jt]s         eol=lf
-*.[jt]sx        eol=lf
-*.[cm]js        eol=lf
-
-*.xml           eol=lf
-*.atom          eol=lf
-*.rss           eol=lf
-
-*.ico           binary
-*.gif           binary
-*.jpeg          binary
-*.jpg           binary
-*.png           binary
-*.webp          binary
-*.svgz          binary
-*.svg           eol=lf
-
-LICENSE*        eol=lf
-
-.npmignore      eol=lf
-
-.gitattributes  eol=lf export-ignore
-.gitignore      eol=lf export-ignore
-.gitmodules     eol=lf export-ignore
+.gitattributes  text export-ignore
+.gitignore      text export-ignore
+.gitmodules     text export-ignore
